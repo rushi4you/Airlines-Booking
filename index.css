@@ -1,0 +1,131 @@
+/* *all tags */
+.icon{
+    font-size: 30px;
+}
+
+/* section 1(navbar)  */
+.img1
+{
+    width: 100px;
+    height: 100px;
+}
+/* section 2 */
+.sec1{
+    background-image: url(img/background/Vector-Smart-Object-1.png);
+    background-repeat: no-repeat;
+}
+.s_border{
+    border: 3px solid skyblue;
+}
+
+/* section 3 */
+.bg2{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url(img/background/F-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.phover:hover{
+    background-color:orange;
+    transform:scale(1.1);
+}
+
+/* section 4 */
+.bg3{
+    background-image: url(img/background/Vector-Smart-Object-1.png);
+    background-repeat: no-repeat;
+}
+.div31{
+    border: 2px solid skyblue;
+}
+.div31:hover{
+    background-color:orange;
+}
+.div33{
+    background-image: url(img/background/Vector-Smart-Object-1.png);
+}
+
+
+/* section 6 */
+.bg5{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url(img/background/F-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+/* section 7 */
+.bg62{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url(img/background/F-6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg63{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url(img/background/F-9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg64{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url(img/background/F-8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* section 8  */
+.bg7{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url(img/background/F-5copy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.img72{
+    width: 80px;
+    height: 80px;
+    margin-left: 35%;
+}
+
+/* section 9 */
+.bg82{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url(img/background/F-10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg83{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url(img/background/F-11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* section 10 */
+.bg9{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url(img/background/F-4\ \(2\).jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* section 11 */
+.bg10{
+    background-image: url(img/background/Vector-Smart-Object-1.png);
+    background-repeat: no-repeat;
+}
+
+/* ticket section  */
+
+.tiketpbg{
+    background-image: url(img/background/tiketbg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.tbg{
+    background-image: url(img/background/Airplan_bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+.barcode{
+    width: 80px;
+    height:80px;
+
+}
